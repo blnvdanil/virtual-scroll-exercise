@@ -22,3 +22,5 @@ interface VirtualElement {
 
 Проще всего реализовать скроллинг как сделано в [height.app](https://height.app), там `VirtualList` это огромный `div`, в котором елементы выводятся через
 `position: absolute`.
+
+Чтобы показать код, нужно форкнуть репозиторий, написать код и открыть pull request в мейн ветку.
